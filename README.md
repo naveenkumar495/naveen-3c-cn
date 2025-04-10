@@ -11,8 +11,7 @@ To write a python program for creating File Transfer using TCP Sockets Links
 ### CLIENT :
 ```
 
-# NAME : ALIYA SHEEMA 
-# REG NO : 212223230011
+
 
 import socket 
 s = socket.socket() 
